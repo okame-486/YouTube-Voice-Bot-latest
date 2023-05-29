@@ -50,7 +50,7 @@ curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe -o 
 
 ### 設定
 
-config.json に以下の情報を入力してください。
+config.template を config.json に変更して以下の情報を入力してください。
 
 ```json
 {
